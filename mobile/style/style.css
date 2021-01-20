@@ -735,31 +735,31 @@ i,u{font-style:normal;text-decoration:none;}
 .bookShadow {
 	position:absolute;
 	top:0px;
-	-webkit-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-	-moz-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-	-o-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-	-ms-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-	box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
+	-webkit-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+	-moz-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+	-o-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+	-ms-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+	box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
 }
 .bookShadow-vertical {
 	position:absolute;
 	left:0px;
-	-webkit-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-	-moz-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-	-o-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
+	-webkit-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+	-moz-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+	-o-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
 	-ms-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-	box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
+	box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
 }
 
 @media all and (max-width: 400px){
     .bookShadow {
 		position:absolute;
 		top:0px;
-		-webkit-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-		-moz-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-		-o-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-		-ms-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-		box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
+		-webkit-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+		-moz-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+		-o-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+		-ms-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+		box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
 	}
 }
 
@@ -767,11 +767,11 @@ i,u{font-style:normal;text-decoration:none;}
     .bookShadow {
 		position:absolute;
 		top:0px;
-		-webkit-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-		-moz-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-		-o-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
+		-webkit-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+		-moz-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
+		-o-box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
 		-ms-box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
-		box-shadow : 0 0 5px rgba(40, 40, 40, 0.7);
+		box-shadow : 0 0 0px rgba(40, 40, 40, 0.7);
 	}
 }
 
