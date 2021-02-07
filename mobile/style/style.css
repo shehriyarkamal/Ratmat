@@ -7648,23 +7648,30 @@ a {
     }
 }
 
-.left-side {
-    background-image: url('../18.1.png');
-    background-repeat: repeat;
-    background-color: none !important;
+
+.left-side, .flip-hard-left-side, .right-side {
+    background-repeat: no-repeat;
     background-position: top;
+    background-color: white !important;
+}
+
+.left-side, .flip-hard-left-side {
+    background-image: url('../18.1.png');
     background-size: cover;
 }
 
 .right-side {
     background-image: url('../18.2.png');
-    background-repeat: repeat;
-    background-color: none !important;
-    background-position: top;
-    background-size: 99% 102%;
+    background-size: cover;
+    /*background-size: 100% 110%;*/
+    /*background-size: 100% 100%;*/
 }
 
 .side-image img {
     margin: 0 !important;
     height: 100% !important;
+}
+
+.cover_shadow {
+    display: none;
 }
